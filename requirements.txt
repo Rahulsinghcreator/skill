@@ -16,7 +16,7 @@ urllib3==2.0.3
 websockets==11.0.3
 yt-dlp==2023.6.22
 motor
-aiohttp
+aiohttp==3.8.4
 ffmpeg 
 ffprobe
 aiofiles
@@ -25,4 +25,11 @@ telethon
 umongo==3.1.0
 speedtest-cli
 youtube_dl
-requests
+wget
+tgcrypto
+humanize
+hachoir
+bs4
+httpx[http2]
+img2pdf
+tglogging
