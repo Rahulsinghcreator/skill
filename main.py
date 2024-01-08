@@ -1,3 +1,4 @@
+import pyrogram
 import requests
 import json
 import subprocess
