@@ -1,5 +1,4 @@
-import pyrogram from requirements
-import StickerEmojiInvalid
+import pyrogram from requirements import StickerEmojiInvalid
 import requests
 import json
 import subprocess
