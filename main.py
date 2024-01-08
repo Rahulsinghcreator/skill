@@ -1,4 +1,4 @@
-from pyrogram.errors.exceptions.bad_request_400 
+import pyrogram from requirements
 import StickerEmojiInvalid
 import requests
 import json
